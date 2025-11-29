@@ -1,0 +1,5 @@
+{
+  "name": "Academic Research Assistant",
+  "description": "An advanced AI-powered web application for academic research. Users can upload multiple PDF documents, perform comparative analysis, and receive answers with direct, verifiable citations from the source material. Features include structured data extraction and interactive source highlighting.",
+  "requestFramePermissions": []
+}
